@@ -3,4 +3,4 @@
 
  repositorio criado atraves de uma video aula
 
-Essa kunha adicionei directamente np site
+Essa linha adicionei directamente no site
